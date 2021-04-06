@@ -1,0 +1,31 @@
+@media screen and (max-width: 700px) {
+  .leftpanel-width {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .rightpanel-width {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .full-widget {
+    width: 100% !important;
+    display: unset !important;
+  }
+}
+
+.full-widget {
+  width: 100%;
+  display: flex;
+}
+
+.leftpanel-width {
+  width: 46%;
+}
+
+.rightpanel-width {
+  width: 54%;
+}

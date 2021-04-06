@@ -1,0 +1,19 @@
+.title-line {
+  width: 522px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.description-line {
+  width: 411px;
+  height: 28px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #8692a6;
+}

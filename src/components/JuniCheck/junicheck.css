@@ -1,0 +1,14 @@
+.terms-grid {
+  display: flex;
+  width: 320px;
+}
+
+.juni-checkbox {
+  width: unset !important;
+  margin-top: 6px;
+  margin-right: 16px;
+}
+
+label {
+  color: #696f79;
+}

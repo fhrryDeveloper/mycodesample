@@ -1,0 +1,37 @@
+.label-text {
+  height: 16px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  color: #696f79;
+}
+
+.juni-medium-input {
+  background: #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.11);
+  border-radius: 6px !important;
+  margin-top: 5px;
+  border: 1px solid #8692a6 !important;
+}
+
+.show-password {
+  margin-top: 18px;
+  margin-left: -50px;
+}
+
+input:focus {
+  border: 1px solid #300038 !important;
+}
+
+.input-inner-field-right {
+  right: 10px;
+  top: 19px;
+}
+
+.input-inner-field-right:hover {
+  cursor: pointer;
+}

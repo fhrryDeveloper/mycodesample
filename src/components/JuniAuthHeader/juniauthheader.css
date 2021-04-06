@@ -1,0 +1,14 @@
+@media screen and (max-width: 800px) {
+  .auth-header {
+    margin-right: 50px !important;
+  }
+}
+
+.auth-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+a {
+  color: black !important;
+}

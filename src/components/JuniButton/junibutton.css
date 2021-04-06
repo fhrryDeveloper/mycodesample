@@ -1,0 +1,12 @@
+.register-btn {
+  height: 52px;
+  outline: none;
+  border: 0px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+}
+
+.google-icon {
+  margin-left: 30px;
+  position: absolute;
+  margin-top: 15px;
+}
